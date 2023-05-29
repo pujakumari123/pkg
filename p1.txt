@@ -1,0 +1,1 @@
+ Windows PowerShell Workflow: Workflow capabilities have been introduced in Windows PowerShell version 3.0. It is designed particularly to help us by performing long-time and effort-consuming complex tasks across different and multiple devices at different locations.
